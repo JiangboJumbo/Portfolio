@@ -9,4 +9,6 @@ Mainly responsible for the development and evaluation of the perception system o
 * Employed RGB-D camera and Nvidia Jetson series mounted on rovers to conduct real-world validation of the perception pipeline.
 * Integrated Optical Flow method into the perception algorithm and managed to build a certified visual odometry. Used ROS2 for communication and visualization
 
-![odometry](https://github.com/JiangboJumbo/Portfolio/blob/main/src/odometry.gif#pic_center)
+<p align="center">
+  <img src="https://github.com/JiangboJumbo/Portfolio/blob/main/src/odometry.gif" />
+</p>
