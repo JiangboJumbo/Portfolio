@@ -5,4 +5,8 @@ I am a Master student at the University of Michigan, Ann Arbor, majoring in Mech
 ## Recent Projects
 ### Research Assistant @ DASC Lab, Department of Robotics, UM
 Mainly responsible for the development and evaluation of the perception system of quadrotors.
-![image](https://github.com/JiangboJumbo/Portfolio/blob/main/src/odometry.gif)
+* Evaluated, benchmarked and improved the perception algorithm based on feature detection and point cloud registration algorithm on ETH3D dataset and KITTY dataset.
+* Employed RGB-D camera and Nvidia Jetson series mounted on rovers to conduct real-world validation of the perception pipeline.
+* Integrated Optical Flow method into the perception algorithm and managed to build a certified visual odometry. Used ROS2 for communication and visualization
+
+![odometry](https://github.com/JiangboJumbo/Portfolio/blob/main/src/odometry.gif#pic_center)
