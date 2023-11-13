@@ -5,3 +5,4 @@ I am a Master student at the University of Michigan, Ann Arbor, majoring in Mech
 ## Recent Projects
 ### Research Assistant @ DASC Lab, Department of Robotics, UM
 Mainly responsible for the development and evaluation of the perception system of quadrotors.
+![image](https://github.com/JiangboJumbo/Portfolio/blob/main/src/odometry.gif)
