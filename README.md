@@ -37,4 +37,6 @@ This project aims to facilitate the task of pipe inspection with a hyper-redunda
 * Completed the data analysis part of the algorithm using MATLAB and C++, completed the simulation of the kinematic model of the robot, optimized the iteration method and parameters of the algorithm.
 * Manufactured part of the experiment platform through 3D printing, tested the hardware system, assisted to conduct several experiments.
 
-
+<p align="center">
+  <img src="https://github.com/JiangboJumbo/Portfolio/blob/main/src/hyper.png" width="600" height="490"/>
+</p>
